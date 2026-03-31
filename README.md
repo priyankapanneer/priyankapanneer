@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0b,25:1a0a05,50:2d1200,75:0C447C,100:1D9E75&fontColor=ffffff&height=300&section=header&text=Priyanka%20Panneerselvam&fontSize=52&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Engineer%20·%20AI%20%26%20DS%20Researcher%20·%20UI%2FUX%20Architect&descSize=18&descAlignY=65&descColor=E8593C&stroke=E8593C&strokeWidth=2" width="100%" />
 
 </div>
 
@@ -299,6 +298,5 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,35:0C447C,65:1a0a05,100:E8593C&height=140&section=footer&fontColor=ffffff&fontSize=14&text=v3.0%20·%20March%202026%20·%20Technology%20Innovation%20Hub&fontAlignY=65&descAlignY=80" width="100%"/>
 
 </div>
